@@ -1,0 +1,7 @@
+schema: spec-driven
+
+# Project context (optional)
+# Tech stack / conventions for AI when creating artifacts.
+context: |
+  微信小程序项目 youlu-wxapp
+  OpenSpec 文档维护在本仓库 openspec/ 目录下

@@ -36,6 +36,9 @@ hs_err_pid*
 # Visual Studio Code Project files
 .vscode
 
+# cursor
+.cursor
+
 # Target Files
 target/
 
